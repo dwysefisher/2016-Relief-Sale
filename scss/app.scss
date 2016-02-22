@@ -475,8 +475,6 @@ img { border: 0; -ms-interpolation-mode: bicubic; vertical-align: middle;
 svg:not(:root) { overflow: hidden; }
 
 
-
-
 /* =============================================================================
    Figures
    ========================================================================== */
@@ -498,6 +496,11 @@ figure { margin: 0; }
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+}
+
+.visible-img img {
+  	margin: auto !important;  /* !important to overwrite negative margin-left and margin-top foundation js gives for images in clearing*/
+    
 }
 
 /* =============================================================================
