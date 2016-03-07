@@ -4100,6 +4100,39 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/img\/auction\/1935-IH-F12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 145609,
+		"inputAbbreviatedPath": "\/img\/auction\/1935-IH-F12.jpg",
+		"outputAbbreviatedPath": "\/img\/auction\/1935-IH-F12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/auction\/1936-IH-F20.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 146266,
+		"inputAbbreviatedPath": "\/img\/auction\/1936-IH-F20.jpg",
+		"outputAbbreviatedPath": "\/img\/auction\/1936-IH-F20.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/auction\/1939-IH-F20.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 146508,
+		"inputAbbreviatedPath": "\/img\/auction\/1939-IH-F20.jpg",
+		"outputAbbreviatedPath": "\/img\/auction\/1939-IH-F20.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/auction\/aggrevation-game.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -4239,6 +4272,39 @@
 		"initialSize": 54804,
 		"inputAbbreviatedPath": "\/img\/auction\/sewing-machine.jpg",
 		"outputAbbreviatedPath": "\/img\/auction\/sewing-machine.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/auction\/th-1935-IH-F12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18202,
+		"inputAbbreviatedPath": "\/img\/auction\/th-1935-IH-F12.jpg",
+		"outputAbbreviatedPath": "\/img\/auction\/th-1935-IH-F12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/auction\/th-1936-IH-F20.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15235,
+		"inputAbbreviatedPath": "\/img\/auction\/th-1936-IH-F20.jpg",
+		"outputAbbreviatedPath": "\/img\/auction\/th-1936-IH-F20.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/auction\/th-1939-IH-F20.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15591,
+		"inputAbbreviatedPath": "\/img\/auction\/th-1939-IH-F20.jpg",
+		"outputAbbreviatedPath": "\/img\/auction\/th-1939-IH-F20.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4562,6 +4628,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/quilts\/quilts-12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 138924,
+		"inputAbbreviatedPath": "\/img\/quilts\/quilts-12.jpg",
+		"outputAbbreviatedPath": "\/img\/quilts\/quilts-12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/quilts\/quilts-13.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108032,
+		"inputAbbreviatedPath": "\/img\/quilts\/quilts-13.jpg",
+		"outputAbbreviatedPath": "\/img\/quilts\/quilts-13.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/quilts\/quilts-14.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 179947,
+		"inputAbbreviatedPath": "\/img\/quilts\/quilts-14.jpg",
+		"outputAbbreviatedPath": "\/img\/quilts\/quilts-14.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/quilts\/quilts-15.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 140403,
+		"inputAbbreviatedPath": "\/img\/quilts\/quilts-15.jpg",
+		"outputAbbreviatedPath": "\/img\/quilts\/quilts-15.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/quilts\/th-quilts-01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -4679,6 +4789,50 @@
 		"initialSize": 15612,
 		"inputAbbreviatedPath": "\/img\/quilts\/th-quilts-11.jpg",
 		"outputAbbreviatedPath": "\/img\/quilts\/th-quilts-11.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/quilts\/th-quilts-12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13253,
+		"inputAbbreviatedPath": "\/img\/quilts\/th-quilts-12.jpg",
+		"outputAbbreviatedPath": "\/img\/quilts\/th-quilts-12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/quilts\/th-quilts-13.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15321,
+		"inputAbbreviatedPath": "\/img\/quilts\/th-quilts-13.jpg",
+		"outputAbbreviatedPath": "\/img\/quilts\/th-quilts-13.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/quilts\/th-quilts-14.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19813,
+		"inputAbbreviatedPath": "\/img\/quilts\/th-quilts-14.jpg",
+		"outputAbbreviatedPath": "\/img\/quilts\/th-quilts-14.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/quilts\/th-quilts-15.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15199,
+		"inputAbbreviatedPath": "\/img\/quilts\/th-quilts-15.jpg",
+		"outputAbbreviatedPath": "\/img\/quilts\/th-quilts-15.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
