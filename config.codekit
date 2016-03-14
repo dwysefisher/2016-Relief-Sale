@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19102",
+"creatorBuild": "19115",
 "files": {
 	"\/_kit\/_nav.kit": {
 		"fileType": 2048,
@@ -4177,6 +4177,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/auction\/checkerboard.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56415,
+		"inputAbbreviatedPath": "\/img\/auction\/checkerboard.jpg",
+		"outputAbbreviatedPath": "\/img\/auction\/checkerboard.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/auction\/clay-pots.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85035,
+		"inputAbbreviatedPath": "\/img\/auction\/clay-pots.jpg",
+		"outputAbbreviatedPath": "\/img\/auction\/clay-pots.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/auction\/coat-rack.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -4276,6 +4298,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/auction\/teapot.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24433,
+		"inputAbbreviatedPath": "\/img\/auction\/teapot.jpg",
+		"outputAbbreviatedPath": "\/img\/auction\/teapot.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/auction\/th-1935-IH-F12.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -4349,6 +4382,28 @@
 		"initialSize": 32938,
 		"inputAbbreviatedPath": "\/img\/auction\/th-buffet.jpg",
 		"outputAbbreviatedPath": "\/img\/auction\/th-buffet.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/auction\/th-checkerboard.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12525,
+		"inputAbbreviatedPath": "\/img\/auction\/th-checkerboard.jpg",
+		"outputAbbreviatedPath": "\/img\/auction\/th-checkerboard.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/auction\/th-claypots.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14411,
+		"inputAbbreviatedPath": "\/img\/auction\/th-claypots.jpg",
+		"outputAbbreviatedPath": "\/img\/auction\/th-claypots.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4437,6 +4492,17 @@
 		"initialSize": 27419,
 		"inputAbbreviatedPath": "\/img\/auction\/th-sewing-machine.jpg",
 		"outputAbbreviatedPath": "\/img\/auction\/th-sewing-machine.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/auction\/th-teapot.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8879,
+		"inputAbbreviatedPath": "\/img\/auction\/th-teapot.jpg",
+		"outputAbbreviatedPath": "\/img\/auction\/th-teapot.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4848,6 +4914,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/wall-hangings\/quilt-challenge.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88005,
+		"inputAbbreviatedPath": "\/img\/wall-hangings\/quilt-challenge.jpg",
+		"outputAbbreviatedPath": "\/img\/wall-hangings\/quilt-challenge.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/wall-hangings\/th-wallhanging-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -4855,6 +4932,28 @@
 		"initialSize": 36011,
 		"inputAbbreviatedPath": "\/img\/wall-hangings\/th-wallhanging-1.jpg",
 		"outputAbbreviatedPath": "\/img\/wall-hangings\/th-wallhanging-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wall-hangings\/th-wallhanging-10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15882,
+		"inputAbbreviatedPath": "\/img\/wall-hangings\/th-wallhanging-10.jpg",
+		"outputAbbreviatedPath": "\/img\/wall-hangings\/th-wallhanging-10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wall-hangings\/th-wallhanging-11.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14996,
+		"inputAbbreviatedPath": "\/img\/wall-hangings\/th-wallhanging-11.jpg",
+		"outputAbbreviatedPath": "\/img\/wall-hangings\/th-wallhanging-11.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4881,6 +4980,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/wall-hangings\/th-wallhanging-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14895,
+		"inputAbbreviatedPath": "\/img\/wall-hangings\/th-wallhanging-4.jpg",
+		"outputAbbreviatedPath": "\/img\/wall-hangings\/th-wallhanging-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wall-hangings\/th-wallhanging-5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14427,
+		"inputAbbreviatedPath": "\/img\/wall-hangings\/th-wallhanging-5.jpg",
+		"outputAbbreviatedPath": "\/img\/wall-hangings\/th-wallhanging-5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wall-hangings\/th-wallhanging-6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15402,
+		"inputAbbreviatedPath": "\/img\/wall-hangings\/th-wallhanging-6.jpg",
+		"outputAbbreviatedPath": "\/img\/wall-hangings\/th-wallhanging-6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wall-hangings\/th-wallhanging-7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19853,
+		"inputAbbreviatedPath": "\/img\/wall-hangings\/th-wallhanging-7.jpg",
+		"outputAbbreviatedPath": "\/img\/wall-hangings\/th-wallhanging-7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wall-hangings\/th-wallhanging-8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19047,
+		"inputAbbreviatedPath": "\/img\/wall-hangings\/th-wallhanging-8.jpg",
+		"outputAbbreviatedPath": "\/img\/wall-hangings\/th-wallhanging-8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wall-hangings\/th-wallhanging-9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16206,
+		"inputAbbreviatedPath": "\/img\/wall-hangings\/th-wallhanging-9.jpg",
+		"outputAbbreviatedPath": "\/img\/wall-hangings\/th-wallhanging-9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/wall-hangings\/wallhanging-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -4888,6 +5053,28 @@
 		"initialSize": 100155,
 		"inputAbbreviatedPath": "\/img\/wall-hangings\/wallhanging-1.jpg",
 		"outputAbbreviatedPath": "\/img\/wall-hangings\/wallhanging-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wall-hangings\/wallhanging-10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81486,
+		"inputAbbreviatedPath": "\/img\/wall-hangings\/wallhanging-10.jpg",
+		"outputAbbreviatedPath": "\/img\/wall-hangings\/wallhanging-10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wall-hangings\/wallhanging-11.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69803,
+		"inputAbbreviatedPath": "\/img\/wall-hangings\/wallhanging-11.jpg",
+		"outputAbbreviatedPath": "\/img\/wall-hangings\/wallhanging-11.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4910,6 +5097,72 @@
 		"initialSize": 154238,
 		"inputAbbreviatedPath": "\/img\/wall-hangings\/wallhanging-3.jpg",
 		"outputAbbreviatedPath": "\/img\/wall-hangings\/wallhanging-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wall-hangings\/wallhanging-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 174901,
+		"inputAbbreviatedPath": "\/img\/wall-hangings\/wallhanging-4.jpg",
+		"outputAbbreviatedPath": "\/img\/wall-hangings\/wallhanging-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wall-hangings\/wallhanging-5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108959,
+		"inputAbbreviatedPath": "\/img\/wall-hangings\/wallhanging-5.jpg",
+		"outputAbbreviatedPath": "\/img\/wall-hangings\/wallhanging-5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wall-hangings\/wallhanging-6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89078,
+		"inputAbbreviatedPath": "\/img\/wall-hangings\/wallhanging-6.jpg",
+		"outputAbbreviatedPath": "\/img\/wall-hangings\/wallhanging-6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wall-hangings\/wallhanging-7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 94149,
+		"inputAbbreviatedPath": "\/img\/wall-hangings\/wallhanging-7.jpg",
+		"outputAbbreviatedPath": "\/img\/wall-hangings\/wallhanging-7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wall-hangings\/wallhanging-8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82327,
+		"inputAbbreviatedPath": "\/img\/wall-hangings\/wallhanging-8.jpg",
+		"outputAbbreviatedPath": "\/img\/wall-hangings\/wallhanging-8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wall-hangings\/wallhanging-9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66492,
+		"inputAbbreviatedPath": "\/img\/wall-hangings\/wallhanging-9.jpg",
+		"outputAbbreviatedPath": "\/img\/wall-hangings\/wallhanging-9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
