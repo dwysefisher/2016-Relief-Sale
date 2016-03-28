@@ -4210,6 +4210,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/auction\/dollhouse.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37593,
+		"inputAbbreviatedPath": "\/img\/auction\/dollhouse.jpg",
+		"outputAbbreviatedPath": "\/img\/auction\/dollhouse.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/auction\/glider.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -4415,6 +4426,17 @@
 		"initialSize": 26982,
 		"inputAbbreviatedPath": "\/img\/auction\/th-coat-rack.jpg",
 		"outputAbbreviatedPath": "\/img\/auction\/th-coat-rack.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/auction\/th-dollhouse.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8570,
+		"inputAbbreviatedPath": "\/img\/auction\/th-dollhouse.jpg",
+		"outputAbbreviatedPath": "\/img\/auction\/th-dollhouse.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
